@@ -20,19 +20,19 @@ feature_row5:
 feature_row2:
   - image_path: assets/images/Lee.png
     title: "Frank Lee"
-    excerpt: DRG<br>
+    excerpt: Uses electrical fields to assess somatosensory neurons in animal models of intervertebral disc degeneration<br>
              [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:franklee@wustl.edu)&nbsp;&nbsp;
              [<i class="fas fa-home" aria-hidden="true"></i>](https://neuralhuborg.herokuapp.com)&nbsp;&nbsp;
              [<i class="fab fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/frank-lee-5b4799211/)&nbsp;&nbsp;
              [<i class="fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/channel/UCmvP12Rkc7XcBrrt5t0F3FQ)
   - image_path: assets/images/patil.jpg
     title: "Deepanjali Patil"
-    excerpt: Intervertebral disc<br>
+    excerpt: Develops new ways to crosslink alginate-based hydrogels for nucleus pulposus regeneration<br>
              [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:dpatil@wustl.edu)&nbsp;&nbsp;
              [<i class="fab fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/deepanjali-gurav-98323a53)
   - image_path: assets/images/rohanifar.jpg
     title: "Milad Rohanifar"
-    excerpt: Synovium<br>
+    excerpt: Models soft tissues using finite element methods and performs RNA-seq analyses<br>
              [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:xiaohong.tan@wustl.edu)&nbsp;&nbsp;
 feature_row:
   - image_path: assets/images/Jing.jpg
@@ -42,11 +42,11 @@ feature_row:
 feature_row3:
   - image_path: assets/images/Davis.jpg
     title: "Alexandra Davis"
-    excerpt: Synovium<br>
+    excerpt: Engineers a model synovium to study drug transport<br>
              [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:alexandradavis@wustl.edu)
   - image_path: assets/images/Tan.jpeg
     title: "Xiaohong Tan"
-    excerpt: Intervertebral disc<br>
+    excerpt: Engineers alginate-based hydrogels that mimic the extracellular matrix of primary intervertebral disc cells<br>
              [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:xiaohong.tan@wustl.edu)&nbsp;&nbsp;
 feature_row4:
   - image_path: assets/images/Jerome.jpeg
