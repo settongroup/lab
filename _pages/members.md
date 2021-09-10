@@ -18,6 +18,13 @@ feature_row5:
     btn_class: "btn--primary"
     url: "https://wustl.app.box.com/s/mvk5oby0ywecqmrei1hn7wt96smdm56a"
 feature_row2:
+  - image_path: assets/images/sade.jpg
+    title: "Sade Clayton"
+    excerpt: Uses novel bioactive materials to create stem cell therapies for treating low back pain<br>
+             [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:sade@wustl.edu)&nbsp;&nbsp;
+             [<i class="fas fa-home" aria-hidden="true"></i>](https://sadewill93.wixsite.com/sadewill)&nbsp;&nbsp;
+             [<i class="fab fa-google" aria-hidden="true"></i>](https://scholar.google.com/citations?user=R2TfkX4AAAAJ&hl=en)&nbsp;&nbsp;
+             [<i class="fab fa-twitter" aria-hidden="true"></i>](https://twitter.com/sadewill93)&nbsp;&nbsp;
   - image_path: assets/images/Lee.png
     title: "Frank Lee"
     excerpt: Uses electrical fields to assess somatosensory neurons in animal models of intervertebral disc degeneration<br>
@@ -49,18 +56,10 @@ feature_row3:
     excerpt: Engineers alginate-based hydrogels that mimic the extracellular matrix of primary intervertebral disc cells<br>
              [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:xiaohong.tan@wustl.edu)&nbsp;&nbsp;
 feature_row4:
-  - image_path: assets/images/Jerome.jpeg
-    title: "Mixame Jerome"
-    excerpt: Biomedical engineering major<br>
-             [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:j.mixame@wustl.edu)
   - image_path: assets/images/Lu.jpg
     title: "Mike Lu"
     excerpt: Biochemistry major<br>
              [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:mikeylu@wustl.edu)
-  - image_path: assets/images/Nommensen.jpg
-    title: "Kayla Nommensen"
-    excerpt: Biomedical engineering major<br>
-             [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:k.nommensen@wustl.edu)
 ---
 ## Principal Investigator
 
