@@ -4,6 +4,15 @@ permalink: "/gallery/"
 classes: wide
 author_profile: true
 gallery1:
+  - url: /assets/images/gallery/xiaobmes2021.jpg
+    image_path: /assets/images/gallery/xiaobmes2021.jpg
+    title: "Xiao presents her work at the Annual BMES 2021 Meeting."
+  - url: /assets/images/gallery/bmes2021.jpg
+    image_path: /assets/images/gallery/bmes2021.jpg
+    title: "BMES 2021"
+  - url: /assets/images/gallery/hsoutreach2021.jpg
+    image_path: /assets/images/gallery/hsoutreach2021.jpg
+    title: "Local high school students meet our lab and research."
   - url: /assets/images/gallery/benfarewell.jpg
     image_path: /assets/images/gallery/benfarewell.jpg
     title: "Farewell, Ben!"
