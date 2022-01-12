@@ -3,7 +3,20 @@ layout: archive
 permalink: "/gallery/"
 classes: wide
 author_profile: true
-gallery1:
+gallery4:
+  - url: /assets/images/gallery/jacobs_award.jpg
+    image_path: /assets/images/gallery/jacobs_award.jpg
+    title: "2022 BMES Christopher Jacobs Awardee"
+  - url: /assets/images/gallery/cellularbiomolecular2022.jpg
+    image_path: /assets/images/gallery/cellularbiomolecular2022.jpg
+    title: "2022 BMES Cellular and Biomolecular Engineering Conference"
+gallery3:
+  - url: /assets/images/gallery/deepafarewell.jpg
+    image_path: /assets/images/gallery/deepafarewell.jpg
+    title: "Farewell, Deepa!"
+  - url: /assets/images/gallery/deepafarewell2.jpg
+    image_path: /assets/images/gallery/deepafarewell2.jpg
+    title: "Celebrating Deepa."
   - url: /assets/images/gallery/xiaobmes2021.jpg
     image_path: /assets/images/gallery/xiaobmes2021.jpg
     title: "Xiao presents her work at the Annual BMES 2021 Meeting."
@@ -79,9 +92,11 @@ gallery3:
     image_path: /assets/images/gallery/bennataliefarewell.jpeg
     title: "Farewell, Ben and Natalie!"
 ---
+## 2022
+{% include gallery id="gallery4" %}
 ## 2021
-{% include gallery id="gallery1" %}
+{% include gallery id="gallery3" %}
 ## 2020
 {% include gallery id="gallery2" %}
 ## 2019
-{% include gallery id="gallery3" %}
+{% include gallery id="gallery1" %}
