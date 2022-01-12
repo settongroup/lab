@@ -32,11 +32,6 @@ feature_row2:
              [<i class="fas fa-home" aria-hidden="true"></i>](https://neuralhuborg.herokuapp.com)&nbsp;&nbsp;
              [<i class="fab fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/frank-lee-5b4799211/)&nbsp;&nbsp;
              [<i class="fab fa-youtube" aria-hidden="true"></i>](https://www.youtube.com/channel/UCmvP12Rkc7XcBrrt5t0F3FQ)
-  - image_path: assets/images/patil.jpg
-    title: "Deepanjali Patil"
-    excerpt: Develops new ways to crosslink alginate-based hydrogels for nucleus pulposus regeneration<br>
-             [<i class="fas fa-envelope" aria-hidden="true"></i>](mailto:dpatil@wustl.edu)&nbsp;&nbsp;
-             [<i class="fab fa-linkedin" aria-hidden="true"></i>](https://www.linkedin.com/in/deepanjali-gurav-98323a53)
   - image_path: assets/images/rohanifar.jpg
     title: "Milad Rohanifar"
     excerpt: Models soft tissues using finite element methods and performs RNA-seq analyses<br>
