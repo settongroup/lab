@@ -63,7 +63,7 @@ gallery2:
   - url: /assets/images/gallery/marcosrampup.jpeg
     image_path: /assets/images/gallery/marcosrampup.jpeg
     title: "Lab ramp-up during COVID"
-gallery3:
+gallery1:
   - url: /assets/images/gallery/erafarewell.jpeg
     image_path: /assets/images/gallery/erafarewell.jpeg
     title: "Farewell, Era!"
@@ -92,6 +92,7 @@ gallery3:
     image_path: /assets/images/gallery/bennataliefarewell.jpeg
     title: "Farewell, Ben and Natalie!"
 ---
+## 2022
 {% include gallery id="gallery4" %}
 ## 2021
 {% include gallery id="gallery3" %}
