@@ -92,7 +92,6 @@ gallery3:
     image_path: /assets/images/gallery/bennataliefarewell.jpeg
     title: "Farewell, Ben and Natalie!"
 ---
-## 2022
 {% include gallery id="gallery4" %}
 ## 2021
 {% include gallery id="gallery3" %}
