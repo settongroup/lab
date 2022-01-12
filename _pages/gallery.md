@@ -92,11 +92,11 @@ gallery1:
     image_path: /assets/images/gallery/bennataliefarewell.jpeg
     title: "Farewell, Ben and Natalie!"
 ---
-## 2022
+<b>2022</b>
 {% include gallery id="gallery4" %}
-## 2021
+<b>2021</b>
 {% include gallery id="gallery3" %}
-## 2020
+<b>2020</b>
 {% include gallery id="gallery2" %}
-## 2019
+<b>2019</b>
 {% include gallery id="gallery1" %}
