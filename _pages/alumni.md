@@ -50,3 +50,4 @@ classes: wide
 |Bailey V. Fearing, Ph.D|2014-2020|Research Assistant Professor, Carolinas Healthcare System |
 |Laura A. Tanenbaum, Ph.D|2016-2017|Senior Scientist at The Janssen Pharmaceutical Companies of Johnson & Johnson|
 |Era Jain, Ph.D|2017-2020|Assistant Professor, Syracuse University|
+|Deepanjali Patil, Ph.D|2021|Research Scientist, Transcera Inc.|
