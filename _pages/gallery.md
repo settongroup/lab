@@ -4,6 +4,12 @@ permalink: "/gallery/"
 classes: wide
 author_profile: true
 gallery4:
+  - url: /assets/images/gallery/frank_ors2022.jpg
+    image_path: /assets/images/gallery/frank_ors2022.jpg
+    title: "Frank presents his work at ORS"
+  - url: /assets/images/gallery/ors2022.jpg
+    image_path: /assets/images/gallery/ors2022.jpg
+    title: "ORS 2022"
   - url: /assets/images/gallery/jacobs_award.jpg
     image_path: /assets/images/gallery/jacobs_award.jpg
     title: "2022 BMES Christopher Jacobs Awardee"
